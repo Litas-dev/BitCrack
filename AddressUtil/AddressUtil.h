@@ -33,3 +33,6 @@ namespace Hash {
 
 
 #endif
+ 
+EOF
+)
